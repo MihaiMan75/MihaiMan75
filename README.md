@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MihaiMan75
 - 👀 I’m interested in taming the rocks
 - 🌱 I’m currently learning C#/.Net + Unity
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mihaiman75@gmail.com
 - ⚡ Fun fact: I own too many retro consoles
 
