@@ -12,7 +12,7 @@ C#/.NET and Unity – building games, apps, and interactive experiences.
 
 ## ⚡ Fun Facts
 - I love discovering how things work, especially the engineering behind them.  
-- Racing, cars, and mechanics are my happy places.  
+- Racing, cars, and engineering are my happy places.  
 - Balancing life is key: I focus on **sports, healthy living, relaxation, and hard work**.  
 - I enjoy being **funny, charismatic**, and connecting with others in a positive way.  
 
